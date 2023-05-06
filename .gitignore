@@ -70,3 +70,10 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+New Unity Project/Library/
+New Unity Project/Logs/Packages-Update.log
+New Unity Project/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
+New Unity Project/ProjectSettings/EditorBuildSettings.asset
+New Unity Project/ProjectSettings/
+New Unity Project/Temp/
+New Unity Project/obj/
